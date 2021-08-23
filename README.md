@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theakode
 - 👀 I’m interested in gaming, art and coding
-- 🌱 I’m currently learning react, python and java
+- 🌱 I’m currently learning react, python, java and c#
 - 💞️ I’m looking to collaborate on Unity game projects (one day)
 - 📫 How to reach me: theakode@gmail.com
 
